@@ -39,3 +39,4 @@ function format(formatMode) {
 			return now.toLocaleTimeString();
 	}
 }
+console.log(hi);
